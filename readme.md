@@ -25,7 +25,7 @@ If you have any questions, you can reach me via email at: `IElybWFQZW5yb2RtQG91d
 
 **For security reasons, I cannot provide a free solution for the latest version of Qoder—that would simply be unreasonable. As the saying goes: "Money makes the mare go; with money, you can do anything."**
 
-**For 20 USDT, I will provide the password (please send me an email to let me know, and I will reply). For 100 USDT, I will delete this project entirely, making it yours exclusively. I will make everything fully open source in 3 months.**
+**For 100 USDT, I will provide the password (please send me an email to let me know, and I will reply). For 200 USDT, I will delete this project entirely, making it yours exclusively. I will make everything fully open source in 3 months.**
 
 
 
