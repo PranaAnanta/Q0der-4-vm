@@ -1,3 +1,11 @@
+
+
+# unpack password
+
+`Ganpati_Bappa_Morya!`
+
+
+
 # how to use
 
 This program is designed to bypass virtual machine (VM) and legacy device detection, enabling you to use a virtualized environment to register new email accounts and claim 300 Qoder credits for each.
